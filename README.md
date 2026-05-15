@@ -1,6 +1,6 @@
 # Ex.No:1a - Study of Socket Programming
 ## Name: MEGANATHAN R
-## Reg No: 21222430156
+## Reg No: 212224230156
 
 ## Aim: 
 To perform a study on Socket Programming
